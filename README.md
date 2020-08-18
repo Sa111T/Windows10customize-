@@ -16,5 +16,6 @@
 * Копируем файлы из `Nord Windows 10 Theme UPDATE/Themes` в `Windows/Resources/Themes`(опять же тема может быть любая)
 * Открываем `Start ThemeTool` в UltraUxTheme
 ![Screenshot](https://i.imgur.com/DLBJQYx.png)
+
 * Ставим галочку напротив `Ignore cursor`, выбираем тему(в данном случае Nord Mac Darkest),нажимаем `Apply`
 ![Screenshot](https://i.imgur.com/lQpXsz2.png)
