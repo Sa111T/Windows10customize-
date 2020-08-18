@@ -14,6 +14,7 @@
 * Перезагружаем компьютер
 * Скачиваем [тему](https://www.deviantart.com/niivu/art/Nord-Windows-10-Theme-837266272) (или другую тему с [deviantart](https://www.deviantart.com/search?q=windows%2010%20themes))
 * Копируем файлы из `Nord Windows 10 Theme UPDATE/Themes` в `Windows/Resources/Themes`(опять же тема может быть любая)
+
 * Открываем `Start ThemeTool` в UltraUxTheme
 ![Screenshot](https://i.imgur.com/DLBJQYx.png)
 
